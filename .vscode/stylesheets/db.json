@@ -1,0 +1,46 @@
+{
+    "workoutsplit": [
+        {
+            "id":1,
+            "day": "Sunday",
+            "workout": "Actice Rest Day",
+            "completed": "yes"
+        },
+        {
+            "id":2,
+            "day": "Monday",
+            "workout": "legs(quads)",
+            "completed": "Yes"
+        },
+        {
+            "id":3,
+            "day": "Tuesday",
+            "workout": "Chest/Shoulders/Tris",
+            "completed": "Yes"
+        },
+        {
+            "id":4,
+            "day": "Wedsnesday",
+            "workout": "Active Rest Day",
+            "completed": "No"
+        },
+        {
+            "id":5,
+            "day": "Thursday",
+            "workout": "Back/Biceps",
+            "completed": "No"
+        },
+        {
+            "id":6,
+            "day": "Friday",
+            "workout": "Legs(hammies)",
+            "completed": "No"
+        },
+        {
+            "id":7,
+            "day": "Saturday",
+            "workout": "Chest/Shoulders/Tris",
+            "completed": "No"
+        }
+    ]
+}
